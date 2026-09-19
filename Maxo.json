@@ -10,5 +10,11 @@
         "key": "kian",
         "expirydate": "19-10-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "cba1279b7be23409",
+        "key": "EPIX",
+        "expirydate": "20-09-2026",
+        "Allowoffline": true
     }
 ]
