@@ -22,5 +22,11 @@
         "key": "00",
         "expirydate": "19-10-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "Device_id30",
+        "key": "Sajjad",
+        "expirydate": "18-12-2026",
+        "Allowoffline": true
     }
 ]
