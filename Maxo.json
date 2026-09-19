@@ -22,11 +22,5 @@
         "key": "00",
         "expirydate": "19-10-2026",
         "Allowoffline": true
-    },
-    {
-        "device_id": "812f3f240393ac74",
-        "key": "Moz",
-        "expirydate": "28-09-2026",
-        "Allowoffline": true
     }
 ]
