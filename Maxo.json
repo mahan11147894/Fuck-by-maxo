@@ -58,5 +58,11 @@
         "key": "SINA",
         "expirydate": "19-11-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "Ranoks",
+        "key": "Ranoks051",
+        "expirydate": "30-09-2026",
+        "Allowoffline": true
     }
 ]
