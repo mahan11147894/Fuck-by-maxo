@@ -28,5 +28,11 @@
         "key": "Moz",
         "expirydate": "24-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "f9c78e7e6cb7316b",
+        "key": "MAXO",
+        "expirydate": "20-10-2026",
+        "Allowoffline": true
     }
 ]
