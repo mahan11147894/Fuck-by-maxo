@@ -39,7 +39,7 @@
         "device_id": "e7e1f9d345b21468",
         "key": "Mahan",
         "expirydate": "20-10-2026",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "device_100",
