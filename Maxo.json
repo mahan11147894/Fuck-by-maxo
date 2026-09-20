@@ -70,5 +70,11 @@
         "key": "MAMAD",
         "expirydate": "09-10-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "9a38bfa373107e49",
+        "key": "1212",
+        "expirydate": "20-10-2026",
+        "Allowoffline": true
     }
 ]
