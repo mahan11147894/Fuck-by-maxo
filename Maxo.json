@@ -64,5 +64,11 @@
         "key": "Ranoks051",
         "expirydate": "30-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "99e87c1d3cd00758",
+        "key": "Ranoks",
+        "expirydate": "12-03-2032",
+        "Allowoffline": true
     }
 ]
