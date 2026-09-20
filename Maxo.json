@@ -46,5 +46,11 @@
         "key": "Mahan",
         "expirydate": "20-10-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "812f3f240393ac74",
+        "key": "Moz",
+        "expirydate": "29-03-2028",
+        "Allowoffline": true
     }
 ]
