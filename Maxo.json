@@ -52,11 +52,5 @@
         "key": "Moz",
         "expirydate": "29-03-2028",
         "Allowoffline": true
-    },
-    {
-        "device_id": "be4fde8a034a3440",
-        "key": "SINA",
-        "expirydate": "19-11-2026",
-        "Allowoffline": true
     }
 ]
