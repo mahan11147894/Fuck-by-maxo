@@ -4,5 +4,11 @@
         "key": "VIP",
         "expirydate": "21-06-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "X MARO",
+        "key": "DMBAN",
+        "expirydate": "04-01-2027",
+        "Allowoffline": true
     }
 ]
