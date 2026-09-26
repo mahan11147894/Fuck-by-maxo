@@ -28,5 +28,11 @@
         "key": "EERFF",
         "expirydate": "26-10-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "a218d152f444394b",
+        "key": "sajad",
+        "expirydate": "15-11-2026",
+        "Allowoffline": true
     }
 ]
