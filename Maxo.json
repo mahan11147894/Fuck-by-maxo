@@ -10,5 +10,11 @@
         "key": "jdidjcjjsns",
         "expirydate": "26-10-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "74f9c8b86cf639b0",
+        "key": "DMBAN",
+        "expirydate": "26-10-2026",
+        "Allowoffline": true
     }
 ]
