@@ -46,5 +46,11 @@
         "key": "MAKA",
         "expirydate": "17-07-3102",
         "Allowoffline": false
+    },
+    {
+        "device_id": "42833b7173d26a65",
+        "key": "Mahan",
+        "expirydate": "26-10-2026",
+        "Allowoffline": false
     }
 ]
