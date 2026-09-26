@@ -10,5 +10,17 @@
         "key": "mmd00",
         "expirydate": "22-06-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "76fef5e4f7af1f7c",
+        "key": "mmd",
+        "expirydate": "26-10-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "76fef5e4f7af1f7c",
+        "key": "mmd",
+        "expirydate": "26-10-2026",
+        "Allowoffline": true
     }
 ]
