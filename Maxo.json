@@ -1,12 +1,6 @@
 [
     {
         "device_id": "74f9c8b86cf639b0",
-        "key": "Kamandar",
-        "expirydate": "15-11-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "74f9c8b86cf639b0",
         "key": "سوبی",
         "expirydate": "15-11-2026",
         "Allowoffline": true
