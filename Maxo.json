@@ -34,5 +34,11 @@
         "key": "Elite 3443",
         "expirydate": "15-11-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "ae1dcb8339c96d14",
+        "key": "REZA",
+        "expirydate": "26-10-2026",
+        "Allowoffline": true
     }
 ]
