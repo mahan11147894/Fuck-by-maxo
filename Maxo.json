@@ -24,15 +24,15 @@
         "Allowoffline": true
     },
     {
-        "device_id": "76fef5e4f7af1f7c",
-        "key": "mmd3416",
-        "expirydate": "26-10-2026",
-        "Allowoffline": true
-    },
-    {
         "device_id": "b10b31dbf320419a",
         "key": "Sam",
         "expirydate": "21-06-2029",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "76fef5e4f7af1f7c",
+        "key": "mmd3416",
+        "expirydate": "26-10-2026",
         "Allowoffline": true
     }
 ]
