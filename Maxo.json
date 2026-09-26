@@ -22,5 +22,11 @@
         "key": "MMD12345",
         "expirydate": "10-02-2054",
         "Allowoffline": true
+    },
+    {
+        "device_id": "2fb5e9993a151596",
+        "key": "ERFAN",
+        "expirydate": "26-10-2026",
+        "Allowoffline": false
     }
 ]
