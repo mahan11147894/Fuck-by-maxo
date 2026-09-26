@@ -34,5 +34,11 @@
         "key": "mmd3416",
         "expirydate": "26-10-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "muimi",
+        "key": "armin12",
+        "expirydate": "26-10-2026",
+        "Allowoffline": true
     }
 ]
