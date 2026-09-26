@@ -1,17 +1,5 @@
 [
     {
-        "device_id": "74f9c8b86cf639b0",
-        "key": "Kos mos",
-        "expirydate": "08-02-2028",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "76fef5e4f7af1f7c",
-        "key": "mmd00",
-        "expirydate": "22-06-2029",
-        "Allowoffline": true
-    },
-    {
         "device_id": "b10b31dbf320419a",
         "key": "Sam",
         "expirydate": "21-06-2029",
