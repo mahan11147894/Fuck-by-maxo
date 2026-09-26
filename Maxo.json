@@ -4,5 +4,11 @@
         "key": "Zareialo",
         "expirydate": "06-10-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "Redmi12",
+        "key": "Zareialo",
+        "expirydate": "06-10-2026",
+        "Allowoffline": true
     }
 ]
