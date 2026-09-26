@@ -49,12 +49,6 @@
     },
     {
         "device_id": "42833b7173d26a65",
-        "key": "mmdtaha007",
-        "expirydate": "21-06-2029",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "42833b7173d26a65",
         "key": "omid",
         "expirydate": "26-10-2026",
         "Allowoffline": true
