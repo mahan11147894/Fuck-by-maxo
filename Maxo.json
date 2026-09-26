@@ -28,5 +28,11 @@
         "key": "EERFF",
         "expirydate": "26-10-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "71798cc35ebd9e64",
+        "key": "Elite 3443",
+        "expirydate": "15-11-2026",
+        "Allowoffline": true
     }
 ]
