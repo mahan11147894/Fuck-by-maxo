@@ -1,1 +1,8 @@
-[]
+[
+    {
+        "device_id": "A33.5g",
+        "key": "Qwert54321",
+        "expirydate": "21-06-2029",
+        "Allowoffline": true
+    }
+]
