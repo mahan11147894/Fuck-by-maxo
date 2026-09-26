@@ -52,11 +52,5 @@
         "key": "omid",
         "expirydate": "26-10-2026",
         "Allowoffline": true
-    },
-    {
-        "device_id": "A35",
-        "key": "74f9c8b86cf639b0",
-        "expirydate": "08-02-2028",
-        "Allowoffline": true
     }
 ]
