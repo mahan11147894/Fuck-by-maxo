@@ -22,5 +22,11 @@
         "key": "VIP",
         "expirydate": "26-11-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "A15",
+        "key": "Rjdjdb",
+        "expirydate": "27-10-2026",
+        "Allowoffline": true
     }
 ]
