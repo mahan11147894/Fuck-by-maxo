@@ -4,17 +4,5 @@
         "key": "Mamali",
         "expirydate": "31-07-2087",
         "Allowoffline": true
-    },
-    {
-        "device_id": "b3920c41703bb19e",
-        "key": "mahan11147894",
-        "expirydate": "27-10-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "1393e639e2f4cc9d",
-        "key": "VIP",
-        "expirydate": "26-12-2026",
-        "Allowoffline": true
     }
 ]
