@@ -28,5 +28,11 @@
         "key": "REGNO",
         "expirydate": "27-10-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "1393e639e2f4cc9d",
+        "key": "REGNO",
+        "expirydate": "27-10-2026",
+        "Allowoffline": true
     }
 ]
