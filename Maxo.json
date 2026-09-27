@@ -10,5 +10,11 @@
         "key": "MRRALON685314",
         "expirydate": "26-10-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "ت",
+        "key": "سلام",
+        "expirydate": "NaN-NaN-NaN",
+        "Allowoffline": true
     }
 ]
