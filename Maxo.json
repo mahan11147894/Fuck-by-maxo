@@ -16,5 +16,11 @@
         "key": "سلام",
         "expirydate": "NaN-NaN-NaN",
         "Allowoffline": true
+    },
+    {
+        "device_id": "وکت",
+        "key": "تتتنن",
+        "expirydate": "27-10-2026",
+        "Allowoffline": true
     }
 ]
