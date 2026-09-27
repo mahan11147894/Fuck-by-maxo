@@ -34,5 +34,11 @@
         "key": "5d96e11471dd2e3f",
         "expirydate": "27-10-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "HUAWEI Y9 Prime 2019",
+        "key": "Amir",
+        "expirydate": "24-06-2029",
+        "Allowoffline": true
     }
 ]
