@@ -16,5 +16,11 @@
         "key": "سلام",
         "expirydate": "NaN-NaN-NaN",
         "Allowoffline": true
+    },
+    {
+        "device_id": "b3920c41703bb19e",
+        "key": "MRRALON685314",
+        "expirydate": "04-11-2026",
+        "Allowoffline": false
     }
 ]
