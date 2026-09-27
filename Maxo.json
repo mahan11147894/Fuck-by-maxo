@@ -16,5 +16,11 @@
         "key": "Mamali",
         "expirydate": "31-07-2087",
         "Allowoffline": true
+    },
+    {
+        "device_id": "a19f5469e30934cf",
+        "key": "mamadsive",
+        "expirydate": "07-05-2027",
+        "Allowoffline": true
     }
 ]
