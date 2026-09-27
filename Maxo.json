@@ -1,11 +1,5 @@
 [
     {
-        "device_id": "1",
-        "key": "1",
-        "expirydate": "27-09-2026",
-        "Allowoffline": true
-    },
-    {
         "device_id": "MOHSEN",
         "key": "MRRALON685314",
         "expirydate": "26-10-2026",
