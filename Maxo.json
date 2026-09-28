@@ -28,17 +28,5 @@
         "key": "5d96e11471dd2e3f",
         "expirydate": "27-10-2026",
         "Allowoffline": true
-    },
-    {
-        "device_id": "HUAWEI Y9 Prime 2019",
-        "key": "AMIR MMD",
-        "expirydate": "14-07-2300",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "7a8ec4da11512d9f",
-        "key": "AMIR MMD",
-        "expirydate": "25-08-4764",
-        "Allowoffline": true
     }
 ]
