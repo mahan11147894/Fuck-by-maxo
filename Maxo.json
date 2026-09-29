@@ -34,5 +34,11 @@
         "key": "Bardia",
         "expirydate": "28-11-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "4f8713a32716a4fd",
+        "key": "Soroosh44",
+        "expirydate": "29-10-2026",
+        "Allowoffline": true
     }
 ]
