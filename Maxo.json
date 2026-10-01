@@ -52,5 +52,11 @@
         "key": "Mahan",
         "expirydate": "31-10-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "af0c14541705f501",
+        "key": "Miyuu",
+        "expirydate": "05-11-2027",
+        "Allowoffline": false
     }
 ]
