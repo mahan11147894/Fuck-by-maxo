@@ -46,5 +46,11 @@
         "key": "soRoosh44zpanel",
         "expirydate": "18-11-2108",
         "Allowoffline": true
+    },
+    {
+        "device_id": "b3920c41703bb19e",
+        "key": "Mahan",
+        "expirydate": "31-10-2026",
+        "Allowoffline": true
     }
 ]
