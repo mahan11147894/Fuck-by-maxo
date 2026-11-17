@@ -58,5 +58,11 @@
         "key": "Miyuu",
         "expirydate": "05-11-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "aade6273679404fd",
+        "key": "ViP",
+        "expirydate": "17-12-2026",
+        "Allowoffline": true
     }
 ]
